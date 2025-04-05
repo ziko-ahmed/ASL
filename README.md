@@ -80,4 +80,4 @@ I will evaluate their performance using appropriate metrics. Additionally, I wil
 This project will contribute to advancing the understanding and application of deep learning in the field of computer vision and could potentially find applications in sorting of sign languages in different classes.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/zulqarnain-ahmed)
